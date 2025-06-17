@@ -87,3 +87,7 @@ yaml-files/
 yamls/
 
 .vscode/settings.json
+
+#OSX hidden files
+.DS_Store/
+.DS_Store
